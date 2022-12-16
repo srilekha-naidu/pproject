@@ -67,6 +67,7 @@ This is a web based application developed for education related based website in
 
 ![Screenshot (247)](https://user-images.githubusercontent.com/115454431/208078950-90322834-0b77-4253-8395-b30859967206.png)
 
+![Screenshot (248)](https://user-images.githubusercontent.com/115454431/208079161-ef19562b-4214-42dc-badc-917a07524c98.png)
 
 
 
