@@ -25,10 +25,12 @@ This is a web based application developed for education related based website in
 - Included the feedback Survey form to increase the scope of improvement. 
 
 ## Screenshots
-
+![Screenshot (253)](https://user-images.githubusercontent.com/115454431/209913583-1927a07e-0cb5-4b11-b6b1-aed78b756fe5.png)
+![Screenshot (252)](https://user-images.githubusercontent.com/115454431/209913591-74a371a3-8f4e-4169-a1cc-165ccb2fea61.png)
 ![Screenshot (231)](https://user-images.githubusercontent.com/115454431/208078671-3a194090-983d-4458-b570-39e2549e4dfd.png)
 
 ![Screenshot (232)](https://user-images.githubusercontent.com/115454431/208078682-8405c2c4-e6dd-445d-9ab9-000b99639a06.png)
+
 
 ![Screenshot (233)](https://user-images.githubusercontent.com/115454431/208078688-1f6c11fb-18f3-4baa-8ae0-7b810e5f245d.png)
 
